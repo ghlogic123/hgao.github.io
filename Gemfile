@@ -10,4 +10,4 @@ end
 
 gem 'github-pages'
 # gem "minimal-mistakes-jekyll"
-gem "jekyll-remote-theme"
+# gem "jekyll-remote-theme"
