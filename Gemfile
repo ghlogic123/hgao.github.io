@@ -9,4 +9,5 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
+gem "jekyll-remote-theme"
